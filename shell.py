@@ -7,4 +7,3 @@ while True:
 
     if error: print(error.return_error())
     else: print(result)
-25 
