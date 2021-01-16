@@ -1,2 +1,2 @@
 # Programming-Language
-Own programming language and interpreter 
+Lexer for own programming language
